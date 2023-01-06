@@ -7,4 +7,3 @@
 - 🌱 I’m currently learning IIoT and Data Analytics
 - 👯 I’m looking to collaborate on fun projects
 - 😄 Pronouns: She/Her
--->
